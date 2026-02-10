@@ -1,5 +1,5 @@
 site_name: Florilegium
-sute_utl: https://diskmanti.xyz/florilegium
+site_url: https://diskmanti.xyz/florilegium
 theme:
   name: material
   palette:
